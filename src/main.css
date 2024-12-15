@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100VH;
+    background-color: #e3f2fd;
+}
+
+.container {
+    width: 780px;
+    border: 1px solid red;
+    padding: 35px 40px;
+    border-radius: 20px;
+}
